@@ -1,0 +1,6 @@
+pandas
+streamlit
+EasyOCR
+mysql.connector
+matplotlib
+streamlit-option-menu
